@@ -1,8 +1,8 @@
-# Halcyon - Bloom
+# HalcyX
 
-Halcyon is an aftermarket firmware based on AOSP with unique UI and features.
+HalcyX is modded Halcyon - an aftermarket firmware based on AOSP with unique UI and features.
 
-## Building Halcyon
+## Building Halcyx
 
 ### Requirements
 - Decent machine to compile Android.
@@ -10,11 +10,11 @@ Halcyon is an aftermarket firmware based on AOSP with unique UI and features.
 
 ### Downloading Halcyon source code
 ```
-repo init -u https://github.com/halcyonproject/manifest -b 16.2 --git-lfs
+repo init -u https://github.com/halcyx/manifest -b 16.2 --git-lfs
 ```
 ```
 repo sync -j$(nproc --all) --force-sync
 ```
 
 ### Building Halcyon
-Please visit our Wiki for [Building guide](https://wiki.hlcyn.org/development/building/downloading_source).
+Please visit Halcyon Wiki for [Building guide](https://wiki.hlcyn.org/development/building/downloading_source).
