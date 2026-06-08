@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="halcyon"
-           fetch="https://github.com/halcyonproject"
+           fetch="https://github.com/halcyx"
            revision="16.2" />
 
   <remote  name="lineage"
@@ -10,7 +10,7 @@
            revision="lineage-23.2" />
            
   <remote  name="halcyon-gitlab"
-           fetch="https://gitlab.com/halcyonproject"
+           fetch="https://gitlab.com/halcyx"
            revision="16.2" />
            
   <remote  name="gitea"
